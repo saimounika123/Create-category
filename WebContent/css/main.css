@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+<html>
+<head>
+<style>
+#header{
+	height:90px;
+	width:1440px;
+	background-color:grey;
+}
+#searchbox{
+	height:35px;
+	width:550px;
+	margin-top:24px;
+}
+#searchbutton{
+	height:35px;
+	width:100px;
+	background-color:black;
+	color:white;
+}
+body{
+	background-color:#eeecec;
+}
+</style>
+</head>
+</html>
